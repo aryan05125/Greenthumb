@@ -10,15 +10,12 @@ Green Thumb is a dynamic platform designed to connect plant enthusiasts with loc
 - Location-based services for quick delivery or pickup
 
 ## 🛠️ Tech Stack
-- **Backend:** Django
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQLite / PostgreSQL
-- **Authentication:** Django Authentication System
+- **Backend:** Django (Only Django Used)
 
 ## 🚀 Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/green-thumb.git
+    git clone https://github.com/aryan05125/Greenthumb.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -42,7 +39,7 @@ Green Thumb is a dynamic platform designed to connect plant enthusiasts with loc
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## 📧 Contact
-For any inquiries, reach out at **youremail@example.com**.
+For any inquiries, reach out at **aryanchauhan144512@gmail.com**.
 
 ---
 Happy Gardening! 🌱
